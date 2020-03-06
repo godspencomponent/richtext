@@ -1,0 +1,37 @@
+.mce-editor figure.align-left {
+  float: left;
+}
+.mce-editor figure.align-right {
+  float: right;
+}
+.mce-editor figure.image {
+  display: inline-block;
+  border: 1px solid gray;
+  margin: 0 2px 0 1px;
+  background: #f5f2f0;
+}
+.mce-editor figure.image img {
+  margin: 8px 8px 0 8px;
+}
+.mce-editor figure.image figcaption {
+  margin: 6px 8px 6px 8px;
+  text-align: center;
+}
+.mce-editor img.align-left {
+  float: left;
+}
+.mce-editor img.align-right {
+  float: right;
+}
+.mce-editor .mce-toc {
+  border: 1px solid gray;
+}
+.mce-editor .mce-toc h2 {
+  margin: 4px;
+}
+.mce-editor .mce-toc li {
+  list-style-type: none;
+}
+.mce-editor p {
+  margin: 0.5em 0;
+}
